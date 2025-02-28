@@ -45,6 +45,10 @@ h5 {
   font-family: "Open Sans";
 }
 
+label {
+  color: #EEEEEE;
+}
+
 .card {
   background-color: #393E46;
 }
